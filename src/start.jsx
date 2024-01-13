@@ -9,6 +9,7 @@ export default function start(){
           }
         };
     }
+    
 
     return (
         <>
@@ -310,6 +311,7 @@ export default function start(){
                 </div>
                 </div>
             </div>
+            
             </section>
         </main>
         {/* Footer*/}
@@ -320,6 +322,7 @@ export default function start(){
             </div>
             </div>
         </footer>
+        
         </>
     )
 }
