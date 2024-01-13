@@ -11719,3 +11719,32 @@ html {
     left: -2vw;
   }
 }
+.typewriter {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #000;
+    padding-right: 8px;
+    animation: typing 1s steps(40, end), blink-caret 0.5s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  
+  @keyframes blink-caret {
+    from,
+    to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: #000;
+    }
+  }
+  
