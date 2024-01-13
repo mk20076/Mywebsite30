@@ -88,8 +88,11 @@ export default function start(){
                         <a
                         className="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder"
                         >
-                        Resume
-                        </a>
+                            <a href="http://localhost:5173/" target="_blank">
+                                <button>Resume!</button>
+                                </a>
+                                </a>
+
                         
                     </div>
                     </div>

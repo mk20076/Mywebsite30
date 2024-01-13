@@ -19,7 +19,7 @@ export default function connect(){
         />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Samir</title>
+        <title>Meryem </title>
         {/* Favicon*/}
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         {/* Custom Google font*/}
@@ -85,19 +85,13 @@ export default function connect(){
                         <span className="text-gradient d-inline">Meryem's Socials: </span>
                     </h1>
                     <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
-                        <a
-                        className="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder"
-                        href="https://www.linkedin.com/in/meryem-khadrouni-54b080267"
-                        >
-                        LinkedIn
+                    <a href="https://www.linkedin.com/in/meryem-khadrouni-54b080267/" target="_blank">
+                                <button>LinkdIn!</button>
+                                <h1>           </h1>
+                    <a href="https://github.com/mk20076" target="_blank">
+                        <button>GitHub!</button>
                         </a>
-                        <a
-                        className="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder"
-                        href="https://github.com/mk20076"
-                        >
-                        Github
                         </a>
-                        
                     </div>
                     </div>
                 </div>

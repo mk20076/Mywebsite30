@@ -332,11 +332,10 @@ label {
 }
 
 button {
-  border-radius: 0;
+  background-color:#0d6efd;
 }
 
 button:focus:not(:focus-visible) {
-  outline: 0;
 }
 
 input,

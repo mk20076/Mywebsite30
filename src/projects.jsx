@@ -36,7 +36,7 @@ export default function projects(){
             <nav className="navbar navbar-expand-lg navbar-light bg-white py-3">
             <div className="container px-5">
                 <a className="navbar-brand" href="index.html">
-                <span className="fw-bolder text-primary">Meryem Khadrouni</span>
+                <span className="fw-bolder text-primary">Meryem's Projects</span>
                 </a>
                 <button
                 className="navbar-toggler"
@@ -70,23 +70,30 @@ export default function projects(){
             </nav>
             </main>
             <div> 
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-                <h1> ---------PROJECTS COMMING SOON! -----------------------------------</h1>
-
-
+               <h1>   --- Fall 2023 --- 
+                </h1>
+                <p> TBA </p>
+                <img src="https://i.gifer.com/P4id.gif" alt="Description of the GIF" />
+                <h1>   --- Spring 2024 --- 
+                </h1>
+                <p> TBA </p>
+                <img src="https://i.gifer.com/P4id.gif" alt="Description of the GIF" />
+                <h1>   --- Summer 2024 --- 
+                </h1>
+                <p> TBA </p>
+                <img src="https://i.gifer.com/P4id.gif" alt="Description of the GIF" />
+                <h1>   --- Fall 2024 --- 
+                </h1>
+                <p> TBA </p>
+                <img src="https://i.gifer.com/P4id.gif" alt="Description of the GIF" />
+                <h1>   --- Spring 2024 --- 
+                </h1>
+                <p> TBA </p>
+                <img src="https://i.gifer.com/P4id.gif" alt="Description of the GIF" />
+                <h1>   --- Fall 2025 --- 
+                </h1>
+                <p> TBA </p>
+                <img src="https://i.gifer.com/P4id.gif" alt="Description of the GIF" />
 
             </div>
 
