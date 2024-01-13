@@ -268,7 +268,7 @@ export default function connect(){
                     <div className="text-center my-5">
                     <h2 className="display-5 fw-bolder">
                     </h2>
-                    <p className="lead fw-light mb-4">------</p>
+                    <p className="lead fw-light mb-4">Let's Connect! :D </p>
                     <p className="text-muted">
                         
                     </p>
